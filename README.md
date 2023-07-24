@@ -646,6 +646,7 @@ Name | Website | Region
 [Sysdig](/company-profiles/sysdig.md)️ | https://sysdig.com/ | USA
 [Tag1 Consulting](/company-profiles/tag1-consulting.md) | https://tag1consulting.com/ | Worldwide
 [Taledo](/company-profiles/taledo.md) | https://taledo.com/ | Europe
+[TalentVerse](/company-profiles/talentverse.md) | https://talentverse.com/ | Worldwide
 [Taplytics](/company-profiles/taplytics.md) | https://taplytics.com/ | USA, Canada
 [Taskade](/company-profiles/taskade.md) | https://taskade.com/ | Worldwide
 [TatvaSoft](/company-profiles/tatvasoft.md) | https://www.tatvasoft.com/ | Worldwide
